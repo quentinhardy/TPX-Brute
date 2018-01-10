@@ -1,12 +1,13 @@
 TPX Brute - The z/OS TPX logon panel brute forcer
 -----------------------------------------------------
-* By: Quentin HARDY
+* By: Quentin HARDY (quentin.hardy@bt.com or quentin.hardy@protonmail.com)
 * Based on: https://github.com/mainframed/TSO-Brute
 * Thanks to "Soldier of FORTRAN".
 
-The TPX logon panel tells you if you have a valid user account. 
+TPX (Terminal Productivity Executive) is a multiple session manager for IBM mainframes. The TPX logon panel tells you if you have a valid user account. 
 Consequently, you can enumerate users allowed to authenticate on the z/OS system.
 With valid users, you can do a dictionnary attack on passwords.
+
 
 Features
 ---------
